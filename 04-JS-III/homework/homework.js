@@ -131,7 +131,7 @@ function multiplicarArgumentos() {
     }
   }
   return producto;
-}
+} 
 
 
 function cuentoElementos(arreglo){
