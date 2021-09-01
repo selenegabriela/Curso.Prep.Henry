@@ -1,0 +1,17 @@
+h1 {
+    color: darkcyan;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 600px;
+    height: 880px; /*Lo cambié a 800, porque con 600 no alcanza a cubrir las dos imágenes.*/
+    background-color: orange;
+    padding: 50px;
+    border: 5px dashed orangered;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
